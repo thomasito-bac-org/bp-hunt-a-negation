@@ -1,3 +1,0 @@
-replicas: 5
-image: existing-legit-image:2.0
-critical: true
